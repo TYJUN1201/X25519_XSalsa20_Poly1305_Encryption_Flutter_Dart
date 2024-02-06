@@ -1,6 +1,10 @@
 # pinenacl_box_encryption
 
-A new Flutter project.
+Implementation of X25519_XSalsa20_Poly1305 encryption using Flutter Dart and PineNacl package.
+
+PineNaCl:
+- A Dart implementation of the TweetNaCl the world's first auditable high-security cryptographic library.
+- This dart implementation based on the tweetnacl-dart library, but it's slightly rewritten and extended by some higher level API implementations, similar to the PyNaCl library's APIs and concepts, for real-life applications.
 
 ## Getting Started
 
